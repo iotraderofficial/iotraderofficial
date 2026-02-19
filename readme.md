@@ -83,3 +83,5 @@ After resolution, winning tokens are redeemable for payout.
 - Uniswap-style AMM logic
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iotraderofficial&show_icons=true&theme=radical)
