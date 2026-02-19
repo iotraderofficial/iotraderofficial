@@ -2,7 +2,7 @@
 
 ### Decentralized Prediction Market Infrastructure
 
-![IOTrader Banner]([https://via.placeholder.com/1200x400/0f172a/ffffff?text=IOTrader+-+Decentralized+Prediction+Markets](https://placehold.co/1200x400/0f172a/ffffff?text=IOTrader+-+Decentralized+Prediction+Market+Protocol))
+![IOTrader Banner]([https://image.freepik.com/free-vector/crypto-market-banner-illustration_23-2148953977.jpg]))
 
 IOTrader is a decentralized prediction market protocol enabling users to trade outcome-based positions on real-world events with transparent, on-chain settlement.
 
